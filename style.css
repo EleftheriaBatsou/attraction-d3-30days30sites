@@ -1,0 +1,37 @@
+
+body {
+  background-color: #F9F8FA; /* white */
+  color: #2DA6C6; /* blue  */
+}
+
+a:link    {color:#2DA6C6;  text-decoration:none}
+a:visited {color:#2DA6C6; text-decoration:none}
+a:hover   {color:#743240; text-decoration:underline} /* red-ish */
+
+h1{
+  font-family: Lobster, Monospace;
+  font-size: 450%;
+}
+
+#who{
+  background-color: #743240;
+  color: #F9F8FA; /* white */
+}
+
+#who p{font-size:14px}
+
+#tickets{
+  background-color:  #2DA6C6; /* blue  */
+  color: #F9F8FA; /* white */
+}
+#tickets p{font-family: Lobster, Monospace; font-size:3.1rem}
+
+#footer{
+  background-color: #F9F8FA; /* almost white */
+  color: #2DA6C6; /* purple */
+}
+
+img .concert-img{
+    display: block;
+    margin: auto;
+}
